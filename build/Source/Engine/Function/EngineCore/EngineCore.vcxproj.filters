@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="G:\program\FireEngine\Source\Engine\Function\EngineCore\Private\engine.cpp">
+      <Filter>Private</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="G:\program\FireEngine\Source\Engine\Function\EngineCore\Public\engine.h">
+      <Filter>Public</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="G:\program\FireEngine\Source\Engine\Function\EngineCore\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Private">
+      <UniqueIdentifier>{C32DB1E8-7283-37DE-B3E0-186462D55187}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Public">
+      <UniqueIdentifier>{BE98E0FF-F503-3033-8757-30E29945BCAB}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

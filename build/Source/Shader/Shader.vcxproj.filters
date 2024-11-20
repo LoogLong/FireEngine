@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="G:\program\FireEngine\Source\Shader\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="G:\program\FireEngine\Source\Shader\RayTracingDefine.h" />
+    <None Include="G:\program\FireEngine\Source\Shader\RayTracingHlslCompat.h" />
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
